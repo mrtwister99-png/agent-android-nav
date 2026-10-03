@@ -1,4 +1,4 @@
-name: Loyo Nav Architect
+﻿name: Loyo Nav Architect
 on:
   schedule:
     - cron: '*/15 * * * *'
